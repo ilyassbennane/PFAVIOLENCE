@@ -1,4 +1,4 @@
-clip
+clip==1.0
 matplotlib==3.8.2
 numpy==1.25.1
 opencv_contrib_python==4.9.0.80
